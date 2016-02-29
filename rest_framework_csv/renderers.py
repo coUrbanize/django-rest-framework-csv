@@ -1,6 +1,6 @@
 from __future__ import unicode_literals
 import csv
-from rest_framework.renderers import *
+from rest_framework_3.renderers import *
 from six import StringIO, text_type
 from rest_framework_csv.orderedrows import OrderedRows
 from rest_framework_csv.misc import Echo

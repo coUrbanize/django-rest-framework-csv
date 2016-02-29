@@ -25,8 +25,8 @@ Usage
 
 .. code-block:: python
 
-    from rest_framework.views import APIView
-    from rest_framework.settings import api_settings
+    from rest_framework_3.views import APIView
+    from rest_framework_3.settings import api_settings
     from rest_framework_csv import renderers as r
 
     class MyView (APIView):
