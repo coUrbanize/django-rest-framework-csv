@@ -6,7 +6,7 @@ DATABASES = {
 }
 
 INSTALLED_APPS = (
-    'rest_framework_csv',
+    'rest_framework_csv_3',
 )
 
 SECRET_KEY = 'testsecretkey'

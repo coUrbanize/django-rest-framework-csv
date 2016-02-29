@@ -6,7 +6,7 @@ import six
 from django.conf import settings
 from rest_framework_3.parsers import BaseParser
 from rest_framework_3.exceptions import ParseError
-from rest_framework_csv.orderedrows import OrderedRows
+from rest_framework_csv_3.orderedrows import OrderedRows
 
 
 def preprocess_stream(stream, charset):
