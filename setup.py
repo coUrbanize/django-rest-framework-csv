@@ -7,7 +7,7 @@ import os
 import sys
 
 
-name = 'djangorestframework-csv'
+name = 'djangorestframework-csv-3'
 package = 'rest_framework_csv_3'
 description = 'CSV Tools for Django REST Framework'
 url = 'https://github.com/mjumbewu/django-rest-framework-csv'
